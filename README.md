@@ -17,7 +17,7 @@ How To Access This App/ Locally:
 3. After opening the file in VS Code, open a new terminal (in VS Code). On the terminal, write this command: npm install. Press Enter. Wait for the installing process to be done. After that, write this command on the same terminal: npm run dev. Press Enter. Wait for a few seconds, then this message will show on the terminal 'Server is running on port 3000'. Open your browser and go to: http://localhost:3000/.
 ---
 How to Access the Deployed Version of this App:
-1. Just go this link: https://kodego-music-player.onrender.com/
+1. Just go this link: https://music-player-mg81.onrender.com/
 ---
 Notes:
 1. To play the next song, click the pause button first, then click the next or previous button. Then click the play button after that.
